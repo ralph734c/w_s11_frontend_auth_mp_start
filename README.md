@@ -24,7 +24,7 @@ Watch the first few minutes of the Module Project Solution Video to get a demo o
 
 ### 👉 TASK 2 - Study the API using Postman
 
-#### Endpoint A: [POST] `http://localhost:3003/api/auth/login`
+#### Endpoint A: [POST] `≈`
 
 This endpoint allows to log users in by sending a valid username and password in the request body.
 
